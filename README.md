@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning XML and Lua
 - 💞️ I’m not looking to collaborate at the moment.
 - 📫 You have a better chance of reaching me via my Discord server - https://discord.gg/BGKnpza - as I'm on Discord a lot, meaning I am far more likely to respond to any comments or requests for help there.
+- I also have a Patreon: https://www.patreon.com/GeodesicDragon. Supporting me is appreciated, but I must stress that it is NOT required; I will never put my mods and addons, or their features, behind a paywall.
 
 <!---
 GeodesicDragon/GeodesicDragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
